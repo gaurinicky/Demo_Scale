@@ -1,0 +1,7 @@
+#Thu Oct 12 11:55:52 EDT 2017
+base.0=C\:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Scale\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_aba6272d117e2f2490e9e4fda82a83f08f7e4610
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Scale\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_4eafd230570fbcbf90892ec32512276871e864c2\\classes.dex
+base.1=C\:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Scale\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_4eafd230570fbcbf90892ec32512276871e864c2
+file.0=C\:\\Users\\gauri\\Desktop\\Courses\\EECS4443\\Labs\\Demo_Scale\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_aba6272d117e2f2490e9e4fda82a83f08f7e4610\\classes.dex
